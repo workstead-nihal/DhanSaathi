@@ -1,0 +1,5 @@
+pip install nodejs
+
+npm install @google/genai
+
+npm start server.js
